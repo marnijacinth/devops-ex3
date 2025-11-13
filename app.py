@@ -41,6 +41,7 @@ margin: auto;
 <h1>🚀 Welcome to Flask + Docker!</h1>
 <p>This is a vibrant web page running inside a Docker container.</p>
 <p>Change the code → Rebuild → Restart Docker to see updates!</p>
+<p>Demo feature added: Hello from the new branch!</p>
 </div>
 </body>
 </html>
